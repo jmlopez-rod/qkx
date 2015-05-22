@@ -1,0 +1,8 @@
+recursive-include docs *
+recursive-include qkx *.py
+include MANIFEST.in
+include README.rst
+include Makefile
+include qkx/scaffold/gitignore.tpl
+include qkx/scaffold/latex/*
+include qkx/scaffold/python/*
